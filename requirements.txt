@@ -3,3 +3,6 @@ pandas
 re
 seaborn
 matplotlib
+string
+wordcloud
+sklearn
